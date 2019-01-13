@@ -161,6 +161,13 @@ flex-basis: 25%;
     width:300px;
     margin-top: -10px;
     display: block;
+    /* position:absolute; */
+    clip:rect(50px,350px,350px,0px);
+}
+.img-draft-2{
+    position:absolute;
+    width:300px;
+    clip:rect(50px,350px,350px,0px);
 }
 /* .post-content-1{
     vertical-align: middle;
